@@ -16,7 +16,5 @@ public class TowerOfHanoi {
      char rodThree = 'C';
 
      TowerOfHanoi(noOfDiscs,rodOne, rodThree, rodTwo);
-
-
     }
 }
